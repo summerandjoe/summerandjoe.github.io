@@ -22,12 +22,12 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "./images/selfie.png"
-  name             : "Deliang Wang"
+  name             : "Deliang Wang (王德亮)"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate at HKU"
   location         : "Hong Kong"
   employer         : "The University of Hong Kong"
-  uri              : # URL
+  uri              : "https://spsweb.edu.hku.hk/profile.php?sid=101492"# URL
   email            : "wdeliang@connect.hku.hk" 
 
   # Academic websites
