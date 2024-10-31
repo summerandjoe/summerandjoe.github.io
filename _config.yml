@@ -14,14 +14,14 @@ name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://summerandjoe.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "summerandjoe/summerandjoe.github.io"
+repository               : "summerandjoe/summerandjoe.github.io/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./images/二寸.jpg"
+  avatar           : "/images/二寸.jpg"
   name             : "Deliang Wang (王德亮)"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate at HKU"
