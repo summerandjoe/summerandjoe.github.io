@@ -21,7 +21,7 @@ repository               : "summerandjoe/summerandjoe.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./files/deliang_pic.PNG"
+  avatar           : "./images/selfie.png"
   name             : "Deliang Wang (王德亮)"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate at HKU"
