@@ -12,7 +12,7 @@ title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : "https://summerandjoe.github.io"
+url                      : https://summerandjoe.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "summerandjoe/summerandjoe.github.io"
 
@@ -21,7 +21,7 @@ repository               : "summerandjoe/summerandjoe.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./images/selfie.png"
+  avatar           : "/images/selfie.png"
   name             : "Deliang Wang (王德亮)"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate at HKU"
