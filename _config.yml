@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "selfie.png"
+  avatar           : "./images/selfie.png"
   name             : "Deliang Wang"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate at HKU"
