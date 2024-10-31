@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Deliang Wang's personal website for academic purpose"
+title: "Brief Self-introduction"
 author_profile: true
 redirect_from: 
   - /about/
